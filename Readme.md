@@ -1,1 +1,2 @@
-Covid 19 x-ray classiifcation task
+This repo contain machine learning models and data for PET dataset.
+
